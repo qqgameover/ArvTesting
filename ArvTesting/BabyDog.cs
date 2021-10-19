@@ -15,7 +15,7 @@ namespace ArvTesting
 
         public override void Bark()
         {
-            Console.WriteLine("waf waf");
+            Console.WriteLine("waf waf im a little babydog");
         }
     }
 }
